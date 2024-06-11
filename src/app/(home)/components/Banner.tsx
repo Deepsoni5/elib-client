@@ -1,7 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import PaperBg from "../../public/paper-bg.jpg";
-import Book from "../../public/book.png";
+import PaperBg from "../../../../public/paper-bg.jpg";
+import Book from "../../../../public/book.png";
+
 const Banner = () => {
   return (
     <div className="mx-auto max-w-7xl py-10">
